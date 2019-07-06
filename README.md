@@ -28,8 +28,8 @@ Institute, City, Country
 years
 
 SKILLS
-*
-*
-*
+* Java Script
+* Java
+* QA
 
 
