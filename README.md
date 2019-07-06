@@ -24,7 +24,7 @@ City, Country
 * job description
 - - - -
 EDUCATION
-Institute, City
+Institute, City, Country
 years
 ---
 
