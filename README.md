@@ -30,6 +30,6 @@ years
 SKILLS
 * Java Script
 * Java
-*
+* QA
 
 
