@@ -32,9 +32,9 @@ Institute, City, Country
 years
 
 SKILLS
-* Java Script
+* JavaScript
 * Java
-* QA
+* QA testing 
 * HTML
 * SQL
 
