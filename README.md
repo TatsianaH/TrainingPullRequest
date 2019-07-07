@@ -39,5 +39,6 @@ SKILLS
 * HTML
 * CSS
 * JIRA
+*
 
 
