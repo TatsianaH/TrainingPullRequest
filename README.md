@@ -5,7 +5,8 @@
 #### Cell 000-000-0000
 #### e-mail: 12345@gmail.com
 ---
-
+### About
+Fake it till you make it!
 ### EXPERIENCE
 ____________________________
 ### Job title
