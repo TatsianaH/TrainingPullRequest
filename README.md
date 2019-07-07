@@ -4,8 +4,9 @@
 ### Name Madonna
 #### Cell 000-000-0000
 #### e-mail: 12345@gmail.com
+---
 
-## EXPERIENCE
+### EXPERIENCE
 ____________________________
 ### Job title
 #### Company name
@@ -32,6 +33,10 @@ SKILLS
 * Java
 * QA
 * HTML
+* SQL
+
+
+
 
 
 
