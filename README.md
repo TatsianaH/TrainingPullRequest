@@ -6,7 +6,9 @@
 #### e-mail: 12345@gmail.com
 ---
 ### About
-Fake it till you make it!
+* Fake it till you make it!
+* Once upon a time ...
+
 ### EXPERIENCE
 ____________________________
 ### Job title
