@@ -1,19 +1,22 @@
-# New Project
 ## Resume of QA automation engineer
 =================================
 ### Name Madonna
 #### Cell 000-000-0000
 #### e-mail: 12345@gmail.com
 #### LINKEDLN ...
-
-### CAREER OBJECTIVE
 ---
-### About
+### CAREER OBJECTIVE
+
+Software QA engineer, QA automation engineer
+---
+### ABOUT
 * Fake it till you make it!
 * Once upon a time ...
-
+---
 ### TECHNOLOGIES
-
+* something
+* something
+---
 ### EXPERIENCE
 ____________________________
 ### Job title
@@ -23,20 +26,13 @@ City, Country
 * job description
 * job description
 * job description
-- - - -
-### Job title
-#### Company name
-Start and end dates
-City, Country
-* job description
-* job description
-* job description
 
-EDUCATION
+---
+### EDUCATION
 Institute, City, Country
 years
-
-SKILLS
+---
+### SKILLS
 * Java Script
 * Java
 * QA
@@ -45,7 +41,7 @@ SKILLS
 * JIRA
 * SQL
 ---
-LANGUAGES
+### LANGUAGES
 * English 
 * Russian
 
