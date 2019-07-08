@@ -7,6 +7,10 @@
 #### LINKEDLN ...
 
 ### CAREER OBJECTIVE
+---
+### About
+* Fake it till you make it!
+* Once upon a time ...
 
 ### TECHNOLOGIES
 
@@ -39,5 +43,12 @@ SKILLS
 * HTML
 * CSS
 * JIRA
+* SQL
+---
+LANGUAGES
+* English 
+* Russian
+
+
 
 
