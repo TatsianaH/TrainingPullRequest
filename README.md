@@ -44,7 +44,10 @@ SKILLS
 * CSS
 * JIRA
 * SQL
-
+---
+LANGUAGES
+* English 
+* Russian
 
 
 
