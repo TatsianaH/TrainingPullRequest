@@ -4,10 +4,15 @@
 ### Name Madonna
 #### Cell 000-000-0000
 #### e-mail: 12345@gmail.com
+#### LINKEDLN ...
+
+### CAREER OBJECTIVE
 ---
 ### About
 * Fake it till you make it!
 * Once upon a time ...
+
+### TECHNOLOGIES
 
 ### EXPERIENCE
 ____________________________
@@ -32,10 +37,12 @@ Institute, City, Country
 years
 
 SKILLS
-* JavaScript
+* Java Script
 * Java
-* QA testing 
+* QA
 * HTML
+* CSS
+* JIRA
 * SQL
 
 
