@@ -1,16 +1,19 @@
 # New Project
 ## Resume of QA automation engineer
 =================================
-### Name Madonna
+### Name 
 #### Cell 000-000-0000
 #### e-mail: 12345@gmail.com
 #### LINKEDLN ...
+#### GITHUB ...
 
 ### CAREER OBJECTIVE
 ---
 ### About
 * Fake it till you make it!
 * Once upon a time ...
+
+### Represent yourself as the ideal specialist!!!
 
 ### TECHNOLOGIES
 
@@ -44,10 +47,12 @@ SKILLS
 * CSS
 * JIRA
 * SQL
----
+* Selenium
+
 LANGUAGES
 * English 
 * Russian
+
 
 
 
