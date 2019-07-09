@@ -13,6 +13,7 @@ Software QA engineer, QA automation engineer
 ---
 ### ABOUT
 ###### Represent yourself as the ideal specialist!!!
+###### Add some history to reveal yourself as a person
 
 ### TECHNOLOGIES
 * something
