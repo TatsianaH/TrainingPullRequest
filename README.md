@@ -43,7 +43,7 @@ years
 * JIRA
 * SQL
 * Selenium
-
+---
 ### LANGUAGES
 * English 
 * Russian
