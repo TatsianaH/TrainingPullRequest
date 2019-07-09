@@ -1,7 +1,7 @@
 # New Project
 ## Resume of QA automation engineer
 =================================
-### Name Madonna
+### Name 
 #### Cell 000-000-0000
 #### e-mail: 12345@gmail.com
 #### LINKEDLN ...
@@ -47,14 +47,13 @@ SKILLS
 * CSS
 * JIRA
 * SQL
----
+* Selenium
+
 LANGUAGES
 * English 
 * Russian
 
 
-* SQL
-* Selenium
-*
+
 
 
