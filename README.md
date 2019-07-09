@@ -48,6 +48,7 @@ SKILLS
 * JIRA
 * SQL
 * Selenium
+* Postman
 
 LANGUAGES
 * English 
