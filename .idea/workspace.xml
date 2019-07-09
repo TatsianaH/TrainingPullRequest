@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a1e48d4-ecff-482a-94f5-4901b6846577" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562648627207</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="tested gitignore">
+      <created>1562648838526</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1562648838526</updated>
+    </task>
+    <task id="LOCAL-00012" summary="tested gitignore">
+      <created>1562648892629</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1562648892629</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +161,7 @@
     <MESSAGE value="added few edits" />
     <MESSAGE value="added files" />
     <MESSAGE value="changed text" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed text" />
+    <MESSAGE value="tested gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="tested gitignore" />
   </component>
 </project>
