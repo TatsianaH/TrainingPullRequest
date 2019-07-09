@@ -8,6 +8,10 @@
 #### GITHUB ...
 
 ### CAREER OBJECTIVE
+---
+### About
+* Fake it till you make it!
+* Once upon a time ...
 
 ### Represent yourself as the ideal specialist!!!
 
@@ -42,6 +46,13 @@ SKILLS
 * HTML
 * CSS
 * JIRA
+* SQL
+---
+LANGUAGES
+* English 
+* Russian
+
+
 * SQL
 * Selenium
 *
