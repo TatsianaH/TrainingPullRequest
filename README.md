@@ -5,8 +5,11 @@
 #### Cell 000-000-0000
 #### e-mail: 12345@gmail.com
 #### LINKEDLN ...
+#### GITHUB ...
 
 ### CAREER OBJECTIVE
+
+### Represent yourself as the ideal specialist!!!
 
 ### TECHNOLOGIES
 
@@ -39,6 +42,7 @@ SKILLS
 * HTML
 * CSS
 * JIRA
-*
+* SQL
+* Selenium
 
 
