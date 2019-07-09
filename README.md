@@ -1,4 +1,3 @@
-# New Project
 ## Resume of QA automation engineer
 =================================
 ### Name 
@@ -7,26 +6,21 @@
 #### LINKEDLN ...
 #### GITHUB ...
 
-### CAREER OBJECTIVE
 ---
-### About
-* Fake it till you make it!
-* Once upon a time ...
+### CAREER OBJECTIVE
 
-### Represent yourself as the ideal specialist!!!
+Software QA engineer, QA automation engineer
+---
+### ABOUT
+###### Represent yourself as the ideal specialist!!!
 
 ### TECHNOLOGIES
-
+* something
+* something
+---
 ### EXPERIENCE
-____________________________
-### Job title
-#### Company name
-Start and end dates
-City, Country
-* job description
-* job description
-* job description
-- - - -
+Names of projects you took part and your participation in this projects
+
 ### Job title
 #### Company name
 Start and end dates
@@ -35,11 +29,12 @@ City, Country
 * job description
 * job description
 
-EDUCATION
+---
+### EDUCATION
 Institute, City, Country
 years
-
-SKILLS
+---
+### SKILLS
 * Java Script
 * Java
 * QA
@@ -48,8 +43,8 @@ SKILLS
 * JIRA
 * SQL
 * Selenium
-
-LANGUAGES
+---
+### LANGUAGES
 * English 
 * Russian
 
