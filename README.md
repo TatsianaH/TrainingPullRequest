@@ -6,16 +6,14 @@
 ##### e-mail: 12345@gmail.com
 ##### LINKEDLN ...
 ##### GITHUB ...
-
 ---
 ### CAREER OBJECTIVE
-
 Software QA engineer, QA automation engineer
 ---
 ### ABOUT
 ###### Represent yourself as the ideal specialist!!!
 ###### Add some history to reveal yourself as a person
-
+---
 ### TECHNOLOGIES
 * something
 * something
@@ -30,7 +28,6 @@ City, Country
 * job description
 * job description
 * job description
-
 ---
 ### EDUCATION
 Institute, City, Country
