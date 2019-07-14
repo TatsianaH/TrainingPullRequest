@@ -34,6 +34,9 @@ City, Country
 Institute, City, Country
 years
 ---
+### COURSES
+Company's name, city, Country, year
+---
 ### SKILLS
 * Java Script
 * Java
