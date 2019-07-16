@@ -11,7 +11,17 @@ Software QA engineer, QA automation engineer
 ---
 ### ABOUT
 ###### Represent yourself as the ideal specialist!!!
-
+---
+### TECHNICAL SKILLS
+* Java Script
+* Java
+* QA
+* HTML
+* CSS
+* JIRA
+* SQL
+* Selenium
+---
 ### TECHNOLOGIES
 * something
 * something
@@ -34,18 +44,7 @@ years
 ### COURSES
 Programming Academy in Silicon Valley
 CA, USA   2019
-
 Company's name, city, Country, year
----
-### SKILLS
-* Java Script
-* Java
-* QA
-* HTML
-* CSS
-* JIRA
-* SQL
-* Selenium
 ---
 ### LANGUAGES
 * English 
