@@ -32,6 +32,9 @@ Institute, City, Country
 years
 ---
 ### COURSES
+Programming Academy in Silicon Valley
+CA, USA   2019
+
 Company's name, city, Country, year
 ---
 ### SKILLS
