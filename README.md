@@ -13,14 +13,9 @@ Software QA engineer, QA automation engineer
 ###### Represent yourself as the ideal specialist!!!
 ---
 ### TECHNICAL SKILLS
-* Java Script
-* Java
-* QA
-* HTML
-* CSS
-* JIRA
-* SQL
-* Selenium
+* Languages: Java Script, Java, HTML, CSS, SQL
+* Testing: JIRA, Selenium IDE, Postman
+
 ---
 ### TECHNOLOGIES
 * something
