@@ -15,7 +15,8 @@ Software QA engineer, QA automation engineer
 ### TECHNICAL SKILLS
 * Languages: Java Script, Java, HTML, CSS, SQL
 * Testing: JIRA, Selenium IDE, Postman
-
+* Tools: Git, IntelliJ IDEA
+* 
 ---
 ### TECHNOLOGIES
 * something
