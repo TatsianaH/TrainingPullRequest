@@ -43,6 +43,10 @@ Company's name, city, Country, year
 * JIRA
 * SQL
 * Selenium
+* Postman
+* Node JS
+* React JS
+* Mongo DB
 ---
 ### LANGUAGES
 * English 
