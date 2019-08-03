@@ -46,7 +46,9 @@ Company's name, city, Country, year
 * Postman
 * Node JS
 * React JS
+* Webdriver i/o
 * Mongo DB
+* IDE: IntelliJ IDEA, Eclipse, VSC
 ---
 ### LANGUAGES
 * English 
