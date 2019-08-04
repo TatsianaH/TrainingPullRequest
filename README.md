@@ -12,9 +12,6 @@ Software QA engineer, QA automation engineer
 ### ABOUT
 ###### Represent yourself as the ideal specialist!!!
 
-### TECHNOLOGIES
-* something
-* something
 ---
 ### EXPERIENCE
 Names of projects you took part and your participation in this projects
