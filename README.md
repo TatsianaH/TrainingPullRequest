@@ -32,6 +32,8 @@ Institute, City, Country
 years
 ---
 ### COURSES
+Programming Academy in Silicon Valley
+CA, USA   2019
 Company's name, city, Country, year
 ---
 ### SKILLS
@@ -43,6 +45,10 @@ Company's name, city, Country, year
 * JIRA
 * SQL
 * Selenium
+* Postman
+* Node JS
+* React JS
+* Mongo DB
 ---
 ### LANGUAGES
 * English 
