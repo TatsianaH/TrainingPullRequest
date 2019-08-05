@@ -2,7 +2,8 @@
 ##### Resume of QA automation engineer
 ---
 
-####Name 
+**NAME**
+ 
 **Cell** 000-000-0000
 
 **E-mail**: 12345@gmail.com
